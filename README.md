@@ -1,23 +1,31 @@
 # Leash A4 — Video Recordings
 
-Video links for the Leash group-flight planning prototype and usability tests.
+Recordings for the Leash group-flight planning prototype and usability tests.
 
 ## Demo
 
-**YouTube link pending.** One-minute walkthrough of the prototype, including agreement, contribution, booking completion, and the receipt.
+[Watch the demo on YouTube](https://youtu.be/0FebNCdSARQ)
+
+A 57-second walkthrough of the Leash prototype.
 
 ## User Test 1
 
-**YouTube link pending.** Recording of the first participant completing the task and giving feedback.
+[Watch user test 1 on YouTube](https://youtu.be/eZJ74PJAQHU)
+
+Screen recording and feedback from user test 1.
 
 ## User Test 2
 
-**YouTube link pending.** Recording of the second participant completing the task and giving feedback.
+[Watch user test 2 on YouTube](https://youtu.be/Rf7lYcNjbBU)
+
+Screen recording and feedback from user test 2.
 
 ## User Test 3
 
-**YouTube link pending.** Recording of the third participant completing the task and giving feedback.
+[Watch user test 3 on YouTube](https://youtu.be/KOcGHKorPjc)
+
+Screen recording and feedback from user test 3.
 
 ---
 
-This page is a video index. A pending entry means the recording is not yet available here. Links will be added when uploads are ready.
+All four videos are unlisted and can be watched using the links above. Payments and bookings in the prototype are simulated.
